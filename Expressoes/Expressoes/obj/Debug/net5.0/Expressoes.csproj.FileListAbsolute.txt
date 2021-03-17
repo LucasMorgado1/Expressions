@@ -1,0 +1,48 @@
+C:\Users\Lucas\source\repos\Expressoes\Expressoes\bin\Debug\net5.0\Expressoes.exe
+C:\Users\Lucas\source\repos\Expressoes\Expressoes\bin\Debug\net5.0\Expressoes.deps.json
+C:\Users\Lucas\source\repos\Expressoes\Expressoes\bin\Debug\net5.0\Expressoes.runtimeconfig.json
+C:\Users\Lucas\source\repos\Expressoes\Expressoes\bin\Debug\net5.0\Expressoes.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\Expressoes\Expressoes\bin\Debug\net5.0\Expressoes.dll
+C:\Users\Lucas\source\repos\Expressoes\Expressoes\bin\Debug\net5.0\ref\Expressoes.dll
+C:\Users\Lucas\source\repos\Expressoes\Expressoes\bin\Debug\net5.0\Expressoes.pdb
+C:\Users\Lucas\source\repos\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.dll
+C:\Users\Lucas\source\repos\Expressoes\Expressoes\obj\Debug\net5.0\ref\Expressoes.dll
+C:\Users\Lucas\source\repos\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.pdb
+C:\Users\Lucas\source\repos\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.csprojAssemblyReference.cache
+E:\Faculdade\5semestre\Estrutura de dados\Expressoes\Expressoes\bin\Debug\net5.0\Expressoes.exe
+E:\Faculdade\5semestre\Estrutura de dados\Expressoes\Expressoes\bin\Debug\net5.0\Expressoes.deps.json
+E:\Faculdade\5semestre\Estrutura de dados\Expressoes\Expressoes\bin\Debug\net5.0\Expressoes.runtimeconfig.json
+E:\Faculdade\5semestre\Estrutura de dados\Expressoes\Expressoes\bin\Debug\net5.0\Expressoes.runtimeconfig.dev.json
+E:\Faculdade\5semestre\Estrutura de dados\Expressoes\Expressoes\bin\Debug\net5.0\Expressoes.dll
+E:\Faculdade\5semestre\Estrutura de dados\Expressoes\Expressoes\bin\Debug\net5.0\ref\Expressoes.dll
+E:\Faculdade\5semestre\Estrutura de dados\Expressoes\Expressoes\bin\Debug\net5.0\Expressoes.pdb
+E:\Faculdade\5semestre\Estrutura de dados\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.csprojAssemblyReference.cache
+E:\Faculdade\5semestre\Estrutura de dados\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\5semestre\Estrutura de dados\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.AssemblyInfoInputs.cache
+E:\Faculdade\5semestre\Estrutura de dados\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.AssemblyInfo.cs
+E:\Faculdade\5semestre\Estrutura de dados\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.csproj.CoreCompileInputs.cache
+E:\Faculdade\5semestre\Estrutura de dados\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.dll
+E:\Faculdade\5semestre\Estrutura de dados\Expressoes\Expressoes\obj\Debug\net5.0\ref\Expressoes.dll
+E:\Faculdade\5semestre\Estrutura de dados\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.pdb
+E:\Faculdade\5semestre\Estrutura de dados\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\Expressoes\Expressoes\Expressoes\bin\Debug\net5.0\Expressoes.exe
+C:\Users\Lucas\Downloads\Expressoes\Expressoes\Expressoes\bin\Debug\net5.0\Expressoes.deps.json
+C:\Users\Lucas\Downloads\Expressoes\Expressoes\Expressoes\bin\Debug\net5.0\Expressoes.runtimeconfig.json
+C:\Users\Lucas\Downloads\Expressoes\Expressoes\Expressoes\bin\Debug\net5.0\Expressoes.runtimeconfig.dev.json
+C:\Users\Lucas\Downloads\Expressoes\Expressoes\Expressoes\bin\Debug\net5.0\Expressoes.dll
+C:\Users\Lucas\Downloads\Expressoes\Expressoes\Expressoes\bin\Debug\net5.0\ref\Expressoes.dll
+C:\Users\Lucas\Downloads\Expressoes\Expressoes\Expressoes\bin\Debug\net5.0\Expressoes.pdb
+C:\Users\Lucas\Downloads\Expressoes\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.csprojAssemblyReference.cache
+C:\Users\Lucas\Downloads\Expressoes\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\Expressoes\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\Expressoes\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\Expressoes\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\Expressoes\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.dll
+C:\Users\Lucas\Downloads\Expressoes\Expressoes\Expressoes\obj\Debug\net5.0\ref\Expressoes.dll
+C:\Users\Lucas\Downloads\Expressoes\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.pdb
+C:\Users\Lucas\Downloads\Expressoes\Expressoes\Expressoes\obj\Debug\net5.0\Expressoes.genruntimeconfig.cache
